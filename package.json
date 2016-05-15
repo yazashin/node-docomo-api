@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      "docomo-api",
+      "/Users/Shin/Dropbox/500.Programing/sunny3-botbuilder"
+    ]
+  ],
+  "_from": "docomo-api@*",
+  "_id": "docomo-api@0.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/docomo-api",
+  "_nodeVersion": "0.10.34",
+  "_npmUser": {
+    "email": "koyama.gakugai@gmail.com",
+    "name": "nanonanomachine"
+  },
+  "_npmVersion": "2.1.14",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "docomo-api",
+    "raw": "docomo-api",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/docomo-api/-/docomo-api-0.0.3.tgz",
+  "_shasum": "cb50d33cb812444654cf703e7a87d926b63e18cb",
+  "_shrinkwrap": null,
+  "_spec": "docomo-api",
+  "_where": "/Users/Shin/Dropbox/500.Programing/sunny3-botbuilder",
+  "author": {
+    "name": "nanonanomachine"
+  },
+  "bugs": {
+    "url": "https://github.com/nanonanomachine/node-docomo-api/issues"
+  },
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "request": "^2.51.0",
+    "underscore": "^1.7.0"
+  },
+  "description": "NodeJS Wrapper for Docomo API",
+  "devDependencies": {
+    "mocha": "latest",
+    "should": "^4.4.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "cb50d33cb812444654cf703e7a87d926b63e18cb",
+    "tarball": "https://registry.npmjs.org/docomo-api/-/docomo-api-0.0.3.tgz"
+  },
+  "gitHead": "c7c104633fd3200861409bc2a294a2529a6da30f",
+  "homepage": "https://github.com/nanonanomachine/node-docomo-api",
+  "keywords": [
+    "docomo",
+    "docomo-api"
+  ],
+  "license": "The MIT License",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "nanonanomachine",
+      "email": "koyama.gakugai@gmail.com"
+    }
+  ],
+  "name": "docomo-api",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanonanomachine/node-docomo-api.git"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "version": "0.0.3"
+}
